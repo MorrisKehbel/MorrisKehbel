@@ -2,6 +2,10 @@
   <img alt="My Profile Card"  width="100%" src="https://cardivo.vercel.app/api?name=Morris%20Kehbel&fontColor=%23ffffff&description=Hi,%20i%27m%20a%20full%20stack%20web%20developer.%20Nice%20to%20meet%20you.%20%F0%9F%91%8B&image=https://media.licdn.com/dms/image/v2/D5603AQFDcNYpIPWYhQ/profile-displayphoto-scale_400_400/B56ZhLjsauG4Ao-/0/1753614305753%3Fe%3D1758758400%26v%3Dbeta%26t%3D-xx7hkXhZZ835-5VRkdCUzle656jtsGJ_dbMi9tdapg"/>
 </div>
 
+<p align="center">I'm a passionate developer who loves building clean and modern web applications. Always learning, exploring new technologies, and leveraging AI to enhance user experiences. Focused on scalable, efficient code and intuitive UI/UX. Open to collaboration and new opportunities.</p>
+
+<hr/>
+
 <div align="center">
   <h3>Current Tech Stack :</h3>
   <img alt="My Skills" src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,py,postgres,mongodb,figma,vscode,git,npm&perline=7"/>
@@ -12,9 +16,6 @@
 
 <hr/>
 
-<p align="center">I'm a passionate developer who loves building clean and modern web applications. Always learning, exploring new technologies, and leveraging AI to enhance user experiences. Focused on scalable, efficient code and intuitive UI/UX. Open to collaboration and new opportunities.</p>
-
-<hr/>
 
 <h3 align="center">Statistics</h3>
 
@@ -32,7 +33,7 @@
 <hr/>
 
 <div align="center">
-  <h3>Let's Connect on LinkedIn</h3>
+  <h3>Let's Connect on</h3>
   <a href="https://linkedin.com/in/morris-kehbel" target="_blank">
     <img alt="LinkedIn Logo" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/LinkedIn_Logo_2013_%282%29.svg/1920px-LinkedIn_Logo_2013_%282%29.svg.png"/>
   </a>
