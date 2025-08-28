@@ -2,7 +2,7 @@
   <img alt="My Profile Card"  width="100%" src="https://cardivo.vercel.app/api?name=Morris%20Kehbel&fontColor=%23999999&description=Hi,%20i%27m%20a%20full%20stack%20web%20developer.%20Nice%20to%20meet%20you.%20%F0%9F%91%8B&image=https://media.licdn.com/dms/image/v2/D5603AQFDcNYpIPWYhQ/profile-displayphoto-scale_400_400/B56ZhLjsauG4Ao-/0/1753614305753%3Fe%3D1758758400%26v%3Dbeta%26t%3D-xx7hkXhZZ835-5VRkdCUzle656jtsGJ_dbMi9tdapg"/>
 </div>
 
-<p align="center">I'm a passionate developer who loves building clean and modern web applications. Always learning, exploring new technologies, and leveraging AI to enhance user experiences. Focused on writing scalable, efficient code with intuitive UI/UX in mind. This GitHub is where I track my learning progress, share projects, and explore new ideas.</p>
+<p align="center">I'm a passionate developer who loves building clean and modern web applications. Always learning, exploring new technologies, and leveraging AI to enhance user experiences. This GitHub is where I track my learning progress, share projects, and explore new ideas.</p>
 
 <hr/>
 
