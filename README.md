@@ -22,10 +22,10 @@
 <table align="center">
   <tr>
     <td>
-      <img alt="GitHub stats" width="350" src="https://github-readme-stats.vercel.app/api?username=morriskehbel&custom_title=Github+Stats&bg_color=00000000&hide_border=true&show_icons=true&text_color=667799&title_color=388286&icon_color=388286">
+      <img alt="GitHub stats" width="350" src="https://github-readme-stats-mocha-psi.vercel.app/api?username=morriskehbel&custom_title=Github+Stats&bg_color=00000000&hide_border=true&show_icons=true&text_color=667799&title_color=388286&icon_color=388286">
     </td>
     <td>
-      <img alt="Top Langs" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morriskehbel&layout=compact&hide_border=true&bg_color=00000000&text_color=667799&custom_title=Top+Languages&title_color=388286">
+      <img alt="Top Langs" width="350" src="https://github-readme-stats-mocha-psi.vercel.app/api/top-langs/?username=morriskehbel&layout=compact&hide_border=true&bg_color=00000000&text_color=667799&custom_title=Top+Languages&title_color=388286">
     </td>
   </tr>
 </table>
