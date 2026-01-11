@@ -2,7 +2,7 @@
   <img alt="My Profile Card"  width="100%" src="https://cardivo.vercel.app/api?name=Morris%20Kehbel&fontColor=%23999999&description=Hi,%20i%27m%20a%20full%20stack%20web%2Fapp%20developer.%20Nice%20to%20meet%20you.%20%F0%9F%91%8B&image=https://morriskehbel.de/me_2.webp"/>
 </div>
 
-<p align="center">I love bringing ideas to life by building modern, scalable apps for web and mobile. Constantly exploring new technologies, specifically AI to create smarter, more engaging solutions. This GitHub profile is where I track my learning progress, share projects, and explore new ideas.</p>
+<p align="center">I'm a passionate developer who enjoys building modern scalable applications for web and mobile platforms. Constantly exploring new technologies, specifically AI to create smarter, more engaging solutions. This GitHub profile is where I track my learning progress, share projects, and explore new ideas.</p>
 
 <hr/>
 
@@ -35,6 +35,6 @@
 <div align="center">
   <h3>Let's Connect on</h3>
   <a href="https://linkedin.com/in/morris-kehbel" target="_blank">
-    <img alt="LinkedIn Logo" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/LinkedIn_Logo_2013_%282%29.svg/1920px-LinkedIn_Logo_2013_%282%29.svg.png"/>
+    <img alt="LinkedIn Logo" width="200" src="./images/linkedin.png"/>
   </a>
 </div>
