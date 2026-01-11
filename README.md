@@ -2,15 +2,15 @@
   <img alt="My Profile Card"  width="100%" src="https://cardivo.vercel.app/api?name=Morris%20Kehbel&fontColor=%23999999&description=Hi,%20i%27m%20a%20full%20stack%20web%2Fapp%20developer.%20Nice%20to%20meet%20you.%20%F0%9F%91%8B&image=https://morriskehbel.de/me_2.webp"/>
 </div>
 
-<p align="center">I'm a passionate developer who enjoys building modern scalable applications for web and mobile platforms. Always exploring new technologies and experimenting with AI to create smarter, more engaging solutions. This GitHub is where I track my learning progress, share projects, and explore new ideas.</p>
+<p align="center">I love bringing ideas to life by building modern, scalable apps for web and mobile. Constantly exploring new technologies, specifically AI to create smarter, more engaging solutions. This GitHub profile is where I track my learning progress, share projects, and explore new ideas.</p>
 
 <hr/>
 
 <div align="center">
   <h3>Current Tech Stack :</h3>
-  <img alt="My Skills" src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,ts,next,nodejs,express,vite,postgres,mongodb,figma,vscode,git,npm&perline=8"/>
+  <img alt="My Skills" src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,ts,next,nodejs,express,vite,postgres,mongodb,figma,vscode,git,npm,docker,&perline=9"/>
   <h4>Upcoming Learning Goals:</h4>
-  <img alt="My Learning Goals" src="https://skillicons.dev/icons?i=py,flutter,kotlin"/>
+  <img alt="My Learning Goals" src="https://skillicons.dev/icons?i=py,flutter,kotlin,rails"/>
 </div>
 
 
