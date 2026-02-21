@@ -8,9 +8,9 @@
 
 <div align="center">
   <h3>Current Tech Stack :</h3>
-  <img alt="My Skills" src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,ts,next,nodejs,express,vite,postgres,mongodb,figma,vscode,git,npm,docker,&perline=9"/>
+  <img alt="My Skills" src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,ts,next,nodejs,express,vite,postgres,mongodb,figma,vscode,git,npm,docker,py&perline=9"/>
   <h4>Upcoming Learning Goals:</h4>
-  <img alt="My Learning Goals" src="https://skillicons.dev/icons?i=py,flutter,kotlin,rails"/>
+  <img alt="My Learning Goals" src="https://skillicons.dev/icons?i=laravel,flutter,kotlin,rails"/>
 </div>
 
 
